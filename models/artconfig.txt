@@ -20,4 +20,5 @@ AddCharModel(141, 20019, "ImpExpFemale2.dff", "ImpExpFemale2.txd");
 AddCharModel(141, 20020, "bfori.dff", "bfori.txd");
 AddCharModel(80, 20021, "bmyst.dff", "bmyst.txd");
 AddCharModel(80, 20022, "vbfycrp.dff", "vbfycrp.txd");
+AddCharModel(80, 20023, "Alok.dff", "Alok.txd");
 AddSimpleModel(-1, 19379, -2000, "wallzzz.dff", "wallzzz.txd");
