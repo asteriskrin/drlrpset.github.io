@@ -21,4 +21,5 @@ AddCharModel(141, 20020, "bfori.dff", "bfori.txd");
 AddCharModel(80, 20021, "bmyst.dff", "bmyst.txd");
 AddCharModel(80, 20022, "vbfycrp.dff", "vbfycrp.txd");
 AddCharModel(80, 20023, "bmyri.dff", "bmyri.txd");
+AddCharModel(294, 20024, "wuzimu4.dff", "wuzimu4.txd");
 AddSimpleModel(-1, 19379, -2000, "wallzzz.dff", "wallzzz.txd");
