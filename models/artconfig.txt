@@ -25,4 +25,5 @@ AddCharModel(299, 20024, "claude.dff", "claude.txd");
 AddCharModel(80, 20025, "ryder2.dff", "ryder2.txd");
 AddCharModel(80, 20026, "wmybmx.dff", "wmybmx.txd");
 AddCharModel(80, 20027, "MM2099.dff", "MM2099.txd");
+AddCharModel(80, 20028, "Kakashiedo.dff", "Kakashiedo.txd");
 AddSimpleModel(-1, 19379, -2000, "wallzzz.dff", "wallzzz.txd");
